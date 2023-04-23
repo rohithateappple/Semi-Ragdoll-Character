@@ -1,4 +1,4 @@
-# Semi-Ragdoll
+# Non-Humanoid Semi-Ragdoll
 Creating a Semi-Ragdoll puppet character in Unity
 
 In this project I mainly wanted to recreate Peter Javidpour's character that he had made in Unreal Engine. I knew the character was a ragdoll and after many trial and errors. I landed on a technique of using ragdolls for just the limbs. The ragdoll isn't created using Unity's default ragdoll creator but built using configurable joints.
