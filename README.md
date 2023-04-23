@@ -13,6 +13,11 @@ https://user-images.githubusercontent.com/131531154/233824694-97517a5c-8b53-4150
 ### Configurable Joints
 ![Screenshot (201)](https://user-images.githubusercontent.com/131531154/233824244-97b26b76-2dfb-4d68-9a9f-1665fecd68b9.png)
 
+### Languages & Programs Used
+ - C#
+ - Visual Studio
+ - Unity Engine
+
 ### What I Learnt
  - Basic modelling
  - Custom ragdolls for non humanoids
